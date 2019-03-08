@@ -11,3 +11,6 @@ Install VS code and open the Folder
 
 Install necessary plugins for Solidity
 
+truffle compile -- > this will create the build folder
+
+truffle migrate -- > Make sure the truffle-config.js is correct. If it is localhost, make sure to run testrpc in a different command prompt. And then run the truffe migrate, whch will deploy the contarct(s)
