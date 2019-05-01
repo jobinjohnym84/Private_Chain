@@ -31,6 +31,9 @@ eth.getBlock("latest").gasLimit
 web3.eth.gasPrice  
 
 
-node api.js  
+node api.js    
 npm run dev  
-lsof -i :3000  
+lsof -i :3000    
+
+wget url  
+mv filename1 filename2  
